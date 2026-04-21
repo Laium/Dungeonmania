@@ -1,0 +1,116 @@
+{
+    "entities": [
+      {
+        "key": "2",
+        "x": 9,
+        "y": 5,
+        "type": "door"
+      },
+      {
+        "x": 10,
+        "y": 5,
+        "type": "exit"
+      },
+      {
+        "key": "1",
+        "x": 11,
+        "y": 5,
+        "type": "door"
+      },
+      {
+        "x": 9,
+        "y": 6,
+        "type": "sun_stone"
+      },
+      {
+        "x": 10,
+        "y": 6,
+        "type": "sun_stone"
+      },
+      {
+        "x": 11,
+        "y": 6,
+        "type": "sun_stone"
+      },
+      {
+        "x": 8,
+        "y": 7,
+        "type": "sun_stone"
+      },
+      {
+        "key": "2",
+        "x": 9,
+        "y": 7,
+        "type": "key"
+      },
+      {
+        "x": 10,
+        "y": 7,
+        "type": "wood"
+      },
+      {
+        "x": 11,
+        "y": 7,
+        "type": "treasure"
+      },
+      {
+        "x": 12,
+        "y": 7,
+        "type": "sun_stone"
+      },
+      {
+        "x": 10,
+        "y": 8,
+        "type": "player"
+      },
+      {
+        "x": 10,
+        "y": 9,
+        "type": "arrow"
+      },
+      {
+        "x": 8,
+        "y": 10,
+        "type": "sun_stone"
+      },
+      {
+        "key": "1",
+        "x": 9,
+        "y": 10,
+        "type": "key"
+      },
+      {
+        "x": 10,
+        "y": 10,
+        "type": "arrow"
+      },
+      {
+        "x": 11,
+        "y": 10,
+        "type": "treasure"
+      },
+      {
+        "x": 12,
+        "y": 10,
+        "type": "sun_stone"
+      },
+      {
+        "x": 9,
+        "y": 11,
+        "type": "sun_stone"
+      },
+      {
+        "x": 10,
+        "y": 11,
+        "type": "sun_stone"
+      },
+      {
+        "x": 11,
+        "y": 11,
+        "type": "sun_stone"
+      }
+    ],
+    "goal-condition": {
+      "goal": "exit"
+    }
+  }
